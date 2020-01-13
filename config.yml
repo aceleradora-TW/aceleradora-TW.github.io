@@ -37,30 +37,29 @@ menu:
       title: Início
       url: /
       weight: 1
-
-    - identifier: turmas
-      name: Turmas
-      title: Turmas
-      url: /tags/turma
-      weight: 1
-
-    - identifier: alunas
-      name: Alunas
-      title: Alunas
-      url: /tags/aluna
-      weight: 2
-
-    - identifier: projetos
-      name: Projetos
-      title: Projetos
-      url: /tags/projeto/
-      weight: 3
-
-    - identifier: mentoras
-      name: Mentoras
-      title: Mentoras
-      url: /tags/mentora
-      weight: 4
+#    - identifier: turmas
+#      name: Turmas
+#      title: Turmas
+#      url: /tags/turma
+#      weight: 1
+#
+#    - identifier: alunas
+#      name: Alunas
+#      title: Alunas
+#      url: /tags/aluna
+#      weight: 2
+#
+#    - identifier: projetos
+#      name: Projetos
+#      title: Projetos
+#      url: /tags/projeto/
+#      weight: 3
+#
+#    - identifier: mentoras
+#      name: Mentoras
+#      title: Mentoras
+#      url: /tags/mentora
+#      weight: 4
 
 
 params:
@@ -184,9 +183,6 @@ params:
     enable: true # enable search. thanks for https://raw.githubusercontent.com/ppoffice/hexo-theme-icarus/master/source/js/insight.js
 
   # Sidebar only the following widgets. you can remove any you don't like it.
-  # widgets:
-  #   - board
-  #   - category
-  #   - tag
-  #   - recent_posts
+  widgets:
+    - recent_posts
 
