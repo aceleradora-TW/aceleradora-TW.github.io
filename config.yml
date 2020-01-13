@@ -1,7 +1,7 @@
 baseURL: https://aceleradora-tw.github.io/
 theme: pure
 title: Aceleradora Ágil
-defaultContentLanguage: en  # en/zh/...
+defaultContentLanguage: pt  # en/zh/...
 footnoteReturnLinkContents: ↩
 hasCJKLanguage: true
 paginate: 7
@@ -24,7 +24,6 @@ outputFormats:          # use for search. recommend not to modify
 
 outputs:
     home: ["HTML","RSS","SearchIndex"]  # recommend not to modify
-# sitemap
 sitemap:
   changefreq: monthly
   filename: sitemap.xml
@@ -32,37 +31,42 @@ sitemap:
 
 menu:
   main:
+    - identifier: home
+      name: Início
+      title: Início
+      url: /
+      weight: 1
     - identifier: turmas
       name: Turmas
       title: Turmas
       url: /turmas/
-      weight: 2
+      weight: 1
 
     - identifier: alunas
       name: Alunas
       title: Alunas
       url: /alunas/
-      weight: 3
+      weight: 2
 
     - identifier: projetos
       name: Projetos
       title: Projetos
       url: /projetos/
-      weight: 4
+      weight: 3
 
     - identifier: mentoras
       name: Mentoras
       title: Mentoras
       url: /mentoras/
-      weight: 5
+      weight: 4
 
 
 params:
   since: 2011
-  dateFormatToUse: "2006-01-02"
+  dateFormatToUse: "02/01/2006"
   enablePostCopyright: true
   # the directory under content folder that you want to render
-  mainSections: ["posts"]
+  mainSections: ["about"]
   # Enable/Disable menu icons
   # Icon Reference: http://blog.cofess.com/hexo-theme-pure/iconfont/demo_fontclass.html
   enableMathJax: true #Enable mathjax support, to use mathematical notations
@@ -84,23 +88,18 @@ params:
     links: icon-friendship
     about: icon-cup-fill
 
-  # profile
   profile:
-    enabled: true # Whether to show profile bar
+    enabled: true
     avatar: avatar.png
-    gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
+    gravatar:
     author: Aceleradora Ágil
     author_title: ThoughtWorks/PUCRS
     author_description: Good Good Study, Day Day Up~
     location: Porto Alegre, Brasil
     follow: https://github.com/aceleradora-tw
-    # Social Links
     social:
       links:
-        github: https://github.com/xiaoheiAh
-        # weibo: http://weibo.com/{yourid}
-        # twitter: https://twitter.com/
-        # facebook: /
+        github: https://github.com/aceleradora-TW
         rss: /index.xml
       link_tooltip: false # enable the social link tooltip, options: true, false
   # Site

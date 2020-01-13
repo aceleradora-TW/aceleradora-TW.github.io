@@ -1,0 +1,170 @@
+
+nav_all:
+  other: Tudo
+nav_older:
+  other: Mais antigos
+nav_newer:
+  other: Mais recentes
+
+
+page_home:
+  other: Início
+page_archive:
+  other: Arquivo
+page_archives:
+  other: Arquivado
+page_category:
+  other: Categoria
+page_categories:
+  other: Categorias
+page_tag:
+  other: Tag
+page_tags:
+  other: Tags
+page_tagcloud:
+  other: Tag Cloud
+page_about:
+  other: Sobre
+
+pagination_next:
+  other: Próximo
+pagination_prev:
+  other: Anterior
+pagination_page:
+  other: Página %d
+pagination_pageof:
+  other: Página %d de %s
+
+widget_search:
+  other: Busca
+widget_board:
+  other: Quadro
+widget_archive:
+  other: Arquivo
+widget_tags:
+  other: Tags
+widget_categories:
+  other: Categorias
+widget_tagcloud:
+  other: Nuvem de tags
+widget_recent_posts:
+  other: Posts recentes
+
+
+profile_follow:
+  other: Seguir
+profile_skill:
+  other: Habilidades
+profile_label:
+  other: Labels
+profile_work:
+  other: Trabalhos
+profile_project:
+  other: Projetos
+profile_link:
+  other: Links
+
+insight_hint:
+  other: Digite algo...
+insight_posts:
+  other: Posts
+insight_pages:
+  other: Páginas
+insight_categories:
+  other: Categorias
+insight_tags:
+  other: Tags
+insight_untitled:
+  other: (Sem título)
+
+
+unit_word:
+  other: palavras
+unit_time:
+  other: minutos
+
+article_wordcount:
+  other: "Palavras: "
+article_readcount:
+  other: "Tempo de leitura: "
+article_more:
+  other: Leia Mais
+article_comments:
+  other: Comentários
+article_share:
+  other: Compartilhe
+article_catalogue:
+  other: Catálogo
+
+total_article:
+  other: Total {{ .Count }} artigos
+total_tag:
+  other: Total {{ .Count }} tags
+total_category:
+  other: Total {{ .Count }} categorias
+total_link:
+  other: Total {{ .Count }} links
+total_repository:
+  other: Total {{ .Count }} projetos
+
+
+donate_qrcode_alt:
+  other: Escanear Qrcode
+donate_qrcode_title:
+  other: Escanear
+donate_button:
+  other: R$
+donate_title:
+  other: Me pague um pingado, minha/meu consagrada(o).
+donate_tip:
+  other: Escaneie este qrcode
+donate_alipay_action_tip:
+  other: Open alipay app scan this qrcode, buy me a coffee!
+donate_wechatpay_action_tip:
+  other: Open wechat app scan this qrcode, buy me a coffee!
+donate_alipay:
+  other: alipay
+donate_wechatpay:
+  other: wechat payment
+
+
+comment:
+  other: Comment
+tweets:
+  other: Tweets
+share:
+  other: Share
+rss_feed:
+  other: RSS Feed
+
+
+copyright_theme_by:
+  other: Theme by
+copyright_base_on:
+  other: base on
+copyright_powered_by:
+  other: Powered by
+copyright_post:
+  other: Permalink
+copyright_license:
+  other: License
+
+insight_hint: 
+  other: Type something...
+insight_posts: 
+  other: Posts
+insight_pages: 
+  other: Pages
+insight_categories:
+  other: Categories
+insight_tags:
+  other: Tags
+insight_untitled:
+  other: (Untitled)
+
+page_not_found_heading:
+  other: 404 Não Encontrado
+page_not_found_body:
+  other: A página que você busca pode ter sido removida, renomeada ou está temporariamente indisponível.
+page_not_found_back:
+  other: Voltar
