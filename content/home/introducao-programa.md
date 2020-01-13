@@ -24,7 +24,7 @@ durante o processo de procura por novas oportunidades.
 
 #### Qual o custo do programa?
 
-O programa não tem custo algum e os selecionados recebem uma bolsa de estágio no valor de R$ 1000,00 durante o período do programa.
+O programa não tem custo algum e `os selecionados recebem uma bolsa de estágio no valor de R$ 1000,00` durante o período do programa.
 
 #### Como funciona o programa?
 

@@ -31,33 +31,35 @@ sitemap:
 
 menu:
   main:
+
     - identifier: home
       name: Início
       title: Início
       url: /
       weight: 1
+
     - identifier: turmas
       name: Turmas
       title: Turmas
-      url: /turmas/
+      url: /tags/turma
       weight: 1
 
     - identifier: alunas
       name: Alunas
       title: Alunas
-      url: /alunas/
+      url: /tags/aluna
       weight: 2
 
     - identifier: projetos
       name: Projetos
       title: Projetos
-      url: /projetos/
+      url: /tags/projeto/
       weight: 3
 
     - identifier: mentoras
       name: Mentoras
       title: Mentoras
-      url: /mentoras/
+      url: /tags/mentora
       weight: 4
 
 
@@ -65,8 +67,7 @@ params:
   since: 2011
   dateFormatToUse: "02/01/2006"
   enablePostCopyright: true
-  # the directory under content folder that you want to render
-  mainSections: ["about"]
+  mainSections: ["home"]
   # Enable/Disable menu icons
   # Icon Reference: http://blog.cofess.com/hexo-theme-pure/iconfont/demo_fontclass.html
   enableMathJax: true #Enable mathjax support, to use mathematical notations
@@ -183,9 +184,9 @@ params:
     enable: true # enable search. thanks for https://raw.githubusercontent.com/ppoffice/hexo-theme-icarus/master/source/js/insight.js
 
   # Sidebar only the following widgets. you can remove any you don't like it.
-  #  widgets:
-  #    - board
-  #    - category
-  #    - tag
-  #    - recent_posts
+  # widgets:
+  #   - board
+  #   - category
+  #   - tag
+  #   - recent_posts
 
