@@ -8,12 +8,27 @@ summary: Pontos de contato, sessões, reuniões, como se engajar no programa, et
 
 Este manual descreve resumidamente as maneiras como uma pessoa ThoughtWorker pode contribuir para a Aceleradora Ágil.
 
-### Cronograma 2020 / 01
+- Recrutamento de alunas
+- Curadoria de projetos
+- Apoio ao projeto e mentoria individual
 
-[Neste documento](https://docs.google.com/document/d/1W4AcPIy7XADp4sBooBpEgpM4tNg0wfVszc-7URfFANM/edit?usp=sharing) você pode conferir as
-datas das atividades da Turma 17 (primeiro semestre de 2020). Temos reuniões todas as terças-feiras (9h) caso você queira acompanhar o
-andamento do cronograma presencialmente. Abaixo estão as atividades que mais necessitam do apoio de ThoughtWorkers ao longo do progresso
-da turma.
+### Cronogramas por semestre
+
+Planejamento semestral de cada turma, desde abertura até o fechamento de turmas e ata das reuniões semanais.
+
+__Turma 17 (2020 / 1)__
+
+  - [Cronograma semestral](https://docs.google.com/spreadsheets/d/1cGBXoey0gMo5xxp4LL1fDLF_dHqbtFM25SR7EcYu9ks/edit#gid=0)
+  - [Ata da reunião semanal](https://docs.google.com/spreadsheets/d/1cGBXoey0gMo5xxp4LL1fDLF_dHqbtFM25SR7EcYu9ks/edit#gid=0)
+
+---
+
+### Calendário da Aceleradora
+
+- [Adicione o calendário da Aceleradora no seu Google
+Calendar](https://calendar.google.com/calendar?cid=Y3Biazc3czQzc3Vjb2Ztc3UxcTVwb2tkNTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+
+---
 
 ### Processo seletivo
 
@@ -23,32 +38,30 @@ processo justo e confortável para todas as candidatas.
 
 __Como funcionam as entrevistas individuais__
 
-- Consulte o [Guia de entrevistas individuais](https://docs.google.com/document/d/1W4AcPIy7XADp4sBooBpEgpM4tNg0wfVszc-7URfFANM/edit?usp=sharing)
-
 - Coloque seu nome nos [slots de horários
   de entrevista](https://docs.google.com/spreadsheets/d/1923HoRKAat7F1e2vg88bwF3hq3zUdqPF22WKnB6eMHY/edit#gid=164852889).
 
+- Consulte o [Guia de entrevistas individuais](https://docs.google.com/document/d/1W4AcPIy7XADp4sBooBpEgpM4tNg0wfVszc-7URfFANM/edit?usp=sharing)
+
 - Participe da Huddle de fechamento
 
+---
+
+### Apoio ao projeto e mentoria individual
+
+  - Junte-se ao [Slack](http://aceleradoras.slack.com/)
+
+A mentoria da ThoughtWorks apoia o desenvolvimento do projeto ensinando as tecnologias adotadas e acompanhando o desenvolvimento das
+histórias, resolvendo dúvidas e bloqueios do time. Também revisamos código através do modelo de Pull Requests. A comunicação acontece
+majoritariamente via Slack.
 
 ---
 
 ### Pontos de contato
 
-Os principais pontos de contato da Aceleradora Ágil no escritório de Porto Alegre são:
+Os principais pontos de contato da Aceleradora Ágil são:
 
- - Ghilherme Ghidorsi: ghidorsi@thoughtworks.com
- - Yasser Rachid: yrachid@thoughtworks.com
+ - __Ghilherme Ghidorsi__: ghidorsi@thoughtworks.com
+ - __Yasser Rachid__: yrachid@thoughtworks.com
+ - __E-mail da mentoria__: aceleradora-mentores@thoughtworks.com
 
-Você também pode mandar uma mensagem para aceleradora-mentores@thoughtworks.com
-
-### Onboarding
-
-Se você tem interesse em participar do programa por um período mais prolongado, seria interessante buscar alguém que já esteja envolvido na
-Aceleradora para te ajudar a riscar os itens do checklist abaixo:
-
-  - [Slack](http://aceleradoras.slack.com/)
-  - Lista de e-mail da mentoria
-  - Calendário
-  - Google Drive
-  - Organização do Github
