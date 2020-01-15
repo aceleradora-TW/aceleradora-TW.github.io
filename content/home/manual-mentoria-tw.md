@@ -18,7 +18,7 @@ Planejamento semestral de cada turma, desde abertura até o fechamento de turmas
 
 __Turma 17 (2020 / 1)__
 
-  - [Cronograma semestral](https://docs.google.com/spreadsheets/d/1cGBXoey0gMo5xxp4LL1fDLF_dHqbtFM25SR7EcYu9ks/edit#gid=0)
+  - [Cronograma semestral](https://docs.google.com/spreadsheets/d/1Sh-DlotMJiFDboYTxAaINYd5rkVIxoRjn0moodEpE9U/edit)
   - [Ata da reunião semanal](https://docs.google.com/spreadsheets/d/1cGBXoey0gMo5xxp4LL1fDLF_dHqbtFM25SR7EcYu9ks/edit#gid=0)
 
 ---
